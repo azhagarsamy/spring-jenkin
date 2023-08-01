@@ -19,7 +19,7 @@ public class AppConfigWithSMD {
 	
 	
 //private Gson gson=new Gson();
-	
+//	
 //	@Bean
 //	DataSource dataSource() {
 //		AwsSecrets awsSecrets=getSecret();
